@@ -1,0 +1,3 @@
+[submodule "odyssey-serverless-auth"]
+	path = odyssey-serverless-auth
+	url = https://github.com/HackSC/odyssey-serverless-auth.git
