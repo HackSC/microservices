@@ -1,0 +1,31 @@
+{
+  "name": "serverless-cronjobs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@slack/bolt": "^2.5.0",
+    "@types/next": "^9.0.0",
+    "@types/node": "^14.14.10",
+    "@types/react": "^17.0.0",
+    "@vercel/node": "^1.8.5",
+    "@zeit/next-typescript": "^1.1.1",
+    "dotenv": "^8.2.0",
+    "get-port": "^5.1.1",
+    "next": "10.0.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-json-view": "^1.19.1",
+    "react-loading-skeleton": "^2.1.1",
+    "react-modal": "^3.12.1",
+    "react-table": "^7.6.2",
+    "swr": "^0.3.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
